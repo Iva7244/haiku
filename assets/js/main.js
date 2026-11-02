@@ -12,7 +12,7 @@ function randomize() {
     let scale = randomNumber(0.5, 1.2);
     let translateX = randomNumber(0, 120);
     let translateY = randomNumber(0, 20);
-    let rotate = randomNumber(0, 360);
+    let rotate = randomNumber(0, 270);
 
     if (Math.random() > 0.5) {
       scale = 1;
