@@ -12,6 +12,7 @@ body {
 	display: grid;
 	grid-template-column: repeat(auto-fit, minmax(320px, 1fr));
 	gap: 1rem;
+	margin: 10% 4rem 0 4rem;
 }
 
 .last {
