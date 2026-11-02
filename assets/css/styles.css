@@ -18,7 +18,7 @@ body {
 
 div {
 	transition-property: transform;
-	transition-duration: 3s;
+	transition-duration: .5s;
 }
 
 .last {
